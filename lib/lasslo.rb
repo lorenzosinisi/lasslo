@@ -1,7 +1,6 @@
 require "lasslo/version"
 
-class Lasslo
-
+module Lasslo
   SYLLABLES = %w(ba be bi bo bu by da de di do du dy fe fi fo fu fy ga ge gi
     go gu gy ha he hi ho hu hy ja je ji jo ju jy ka ke ko ku ky la le li lo
     lu ly ma me mi mo mu my na ne ni no nu ny pa pe pi po pu py ra re ri ro
