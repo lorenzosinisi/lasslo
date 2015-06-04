@@ -1,4 +1,4 @@
-# Lasslo - password generator for humans
+# Lasslo - just another 'Human readable' Password generator
 Gem install lasslo to generate unique, encryped and secure passwords for your models
 
 To generate a random but human password with lenght 10:
